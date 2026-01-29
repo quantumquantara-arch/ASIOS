@@ -1,7 +1,3 @@
-This is the revised README for **ASIOS**. It is designed to be a high-level technical specification that frames the project as a paradigm shift from **Industrial Scaling** (Transformers/Brute Force) to **Architectural Coherence** (Geometric Efficiency).
-
----
-
 # ASIOS: Artificial Super Intelligence Operating System
 
 **The first open specification for the synthesis of Artificial Super Intelligence through structure, stability, geometry, and recursive coherence.**
